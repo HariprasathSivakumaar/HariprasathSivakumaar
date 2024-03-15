@@ -4,7 +4,7 @@
 
 <img width="30%" align="right" alt="Coding" width="400" src="https://firebasestorage.googleapis.com/v0/b/pokemoh-ad0fa.appspot.com/o/icons%2Fanimation%20code.gif?alt=media&token=0bf642cd-e4d5-46fc-984f-0af5571139c7">
 
-- 🌱 I’m currently learning **Deep Learning, Tensor Flow**
+- 🌱 I’m currently exploring **LLMs and Generative Ai**
 
 - 👨‍💻 All of my projects are available at [https://github.com/HariprasathSivakumaar](https://github.com/HariprasathSivakumaar)
 
